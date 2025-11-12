@@ -1,3 +1,5 @@
+# zadanie nr. 1
+
 # Dla danej tablicy liczb całkowitych nums i liczby całkowitej target, zwróć indeksy dwóch liczb, których suma wynosi target.
 
 # Można założyć, że każde dane wejściowe mają dokładnie jedno rozwiązanie i nie można używać tego samego elementu dwukrotnie.
